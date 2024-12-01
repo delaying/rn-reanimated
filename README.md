@@ -1,3 +1,12 @@
+# reanimated 연습
+
+[rn-reanimated-expo 공식문서](https://docs.expo.dev/versions/latest/sdk/reanimated/)
+[rn animated 예제](https://www.animatereactnative.com/animations)
+
+## 연습파일
+
+- [Onboarding Pagination Indicator](https://github.com/delaying/rn-reanimated)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
