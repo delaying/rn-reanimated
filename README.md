@@ -1,11 +1,11 @@
 # reanimated 연습
 
-[rn-reanimated-expo 공식문서](https://docs.expo.dev/versions/latest/sdk/reanimated/)
-[rn animated 예제](https://www.animatereactnative.com/animations)
+- [rn-reanimated-expo 공식문서](https://docs.expo.dev/versions/latest/sdk/reanimated/)
+- [rn animated 예제](https://www.animatereactnative.com/animations)
 
 ## 연습파일
 
-- [Onboarding Pagination Indicator](https://github.com/delaying/rn-reanimated)
+- [Onboarding Pagination Indicator](<https://github.com/delaying/rn-reanimated/blob/main/app/(pages)/onboarding-pagination-indicator.tsx>)
 
 # Welcome to your Expo app 👋
 
